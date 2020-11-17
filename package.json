@@ -8,8 +8,16 @@
     "start": "next start"
   },
   "dependencies": {
-    "next": "10.0.1",
-    "react": "17.0.1",
-    "react-dom": "17.0.1"
+    "axios": "^0.21.0",
+    "cookie-parser": "^1.4.5",
+    "csurf": "^1.11.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "isomorphic-unfetch": "^3.1.0",
+    "js-cookie": "^2.2.1",
+    "next": "^10.0.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "theme-ui": "^0.3.3"
   }
 }
